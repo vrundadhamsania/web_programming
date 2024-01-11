@@ -1,23 +1,18 @@
-<html>
-<head>
-registeration from
-</head>
-<boby>
-<form action="mycatch.php" method="post">
-first name<input type="text" name="fname" />
-<br>
-last name<input type="text" name="lname" />
-<br>
-city name<input type="text" name="cname" />
-<br>
-mobile<input type="text" name="mname" />
-<br>
-division<input type="text" name="dname" />
-<br>
-rollno<input type="text" name="rname" />
-<br>
-department<input type="text" name="deptname" />
-<br>
-</form>
-</body>
-</html>
+<?php
+
+//echo abs(-5);
+//echo sqrt(16);
+//echo rand(1,100);
+//echo round(3.8);
+//echo ceil(5.2);
+//echo floor(3.5);
+//echo pow(4,6);
+//echo max(5,8,3);
+//echo min(5,2,9);
+
+//echo strlen("hello, world!");
+//echo strpos("hello,world!","world");
+//echo str_replace("hello","universe","hello,world");
+echo substr(("hello,world!",0,5);
+
+?>
